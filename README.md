@@ -1,2 +1,2 @@
 # Stok
-Aplikasi Stok inputan stok dengan sqlite
+Aplikasi Stok inputan stok dengan sqlitee
